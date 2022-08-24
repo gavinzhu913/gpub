@@ -1,6 +1,6 @@
 package gpub
 
 func Hello(){
-	println("gpub v0.1.1")
+	println("gpub v1.0.0")
 }
 
